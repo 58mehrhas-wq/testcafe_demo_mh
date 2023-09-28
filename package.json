@@ -1,0 +1,14 @@
+{
+  "name": "testcafe_demo_mh",
+  "version": "1.0.0",
+  "description": "TAU Demos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mehrdad Fagan Hassani",
+  "license": "ISC",
+  "dependencies": {
+    "testcafe": "^3.3.0"
+  }
+}
